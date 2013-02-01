@@ -1,0 +1,435 @@
+body
+{
+	background: url(../img/bg.jpg) #282828;
+}
+
+
+p
+{
+	padding: 0 40px;
+}
+
+.splashheader
+{
+	margin: 30px 0 0;
+}
+
+.ipgcopy
+{
+	font: 16px/28px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	padding-bottom: 12px;
+}
+
+.chriscopy
+{
+    font-size: 27px;
+    font-family: "nimbus-sans";
+    font-style: normal;
+    font-weight: 300;
+    color: #5F5F5F;
+    padding-bottom: 12px;
+    line-height: 29px;
+    
+}
+
+.chriscopyiphone
+{
+    font-size: 18px;
+    
+}
+
+
+.navitem
+{
+    padding: 0 20px 20px;
+    list-style: none;
+    
+}
+
+.whatsthis
+{
+    color: white;
+}
+
+.whatsthis:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.navhilite
+{
+	background: #26B8E3;
+	color: white;
+	padding: 2px 5px 2px 4px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+}
+
+.navhilite:hover
+{
+	text-decoration: none;
+	color: white;
+	cursor: text;
+}
+
+.pipenav
+{
+	color: #14578d;
+}
+
+.paragraphnav
+{
+	color: #a4a4a4;
+	font-size: 15px;
+	line-height: 29px;
+	margin-bottom: 28px;
+	text-align: center;
+	font-family: "nimbus-sans";
+	font-style: normal;
+	font-weight: 300;
+	}
+
+.checkbox.checkmove
+{
+    margin-top: 5px;
+    font: italic 14px Georgia, "Times New Roman", Times, serif;
+    color: #96dafd;
+}
+
+textarea, input
+{
+    background-color:#216688 !important; border: 1px solid #247196 !important; color: white !important;
+}
+
+
+
+label
+{
+    color: #5cbbeb;
+    font-size: 11px;
+}
+
+.checkme
+{
+    
+}
+
+.footerback
+{
+    background-color: #277095;
+    padding: 40px;
+    margin-bottom: 0px !important; 
+}
+
+
+.footerwhite
+{
+    background-color: white;
+}
+
+.yoostar
+{
+    margin: 15px 0 0 0;
+}
+
+.avatar
+{
+    position: relative;
+    top: -14px;
+}
+
+.projectdescription
+{
+	color: #707070;
+	font: 13px/23px Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+	text-align: center;
+}
+
+.maincaption
+{
+    z-index: 7;
+    font-size: 11px;
+    background-color: rgb(89, 121, 130);
+    padding: 11px 18px;
+    color: white;
+    line-height: 13px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mainheaderimage
+{
+    padding: 0 20px 20px;
+}
+
+.projecttitle
+{
+	font: 17px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #3998C3;
+	position: relative;
+	top: -6px;
+	text-align: center;
+}
+
+.parainfo
+{
+    margin-top: 54px;
+    padding: 0 19px 5px;
+}
+
+.responsibilities, .accomplishments
+{
+	font-family: "nimbus-sans";
+	font-style: normal;
+	font-weight: 300;
+    padding: 0 19px 10px;
+  
+}
+
+.accomplishments:hover
+{
+color: #386384;
+cursor: pointer;
+text-decoration: underline;
+ 
+}
+
+
+[class*="icon"]
+{
+color: #e97d3b !important;
+}
+
+
+.ipgsubcopy
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7C7C7C;
+	padding: 0 !important;
+	margin: 0 0 42px 40px;
+
+}
+
+.responsibilitiescopy
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	margin: 0 20px 0 20px;
+}
+
+.responsibilitiesinner 
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7C7C7C;
+	margin: 28px 20px 17px 39px;
+
+	padding: 0px;
+}
+
+.tagline
+{
+  font-size: 13px;
+  font-family: "nimbus-sans";
+  font-style: normal;
+  font-weight: 300;
+  color: #5F5F5F;
+  margin: 6px 0 33px;
+}
+
+.logo
+{
+    font-size: 27px;
+    margin-top: 20px;
+    font-family: "nimbus-sans";
+    font-style: normal;
+    font-weight: 700;
+    color: #5F5F5F;
+    }
+
+.gotoindex:hover
+{
+	text-decoration: none !important;
+
+}
+
+
+.logolight
+{
+    font-family: nimbus-sans;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.homedescription
+{
+	color: #cccccc;
+	text-align: center;
+	font-style: italic;
+	font: italic 12px/23px Georgia, "Times New Roman", Times, serif;
+	color: #BCBEBE;
+	padding:10px;
+}
+
+
+
+#main
+{
+	background-color: #fff;
+}
+
+.borderon
+{
+	border: 1px solid red !important;
+}
+
+.projectlogo
+{
+	text-align: center;
+}
+
+.splashthumbnails
+{
+	border: 1px solid #252525;
+}
+
+.vimeo
+{
+    font: italic normal 13px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+}
+
+.vimeohd
+{
+    font: italic normal 12px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+    position: relative;
+    top: 11px;
+}
+
+a.thumbnail:hover
+{
+	border: 1px solid #454545;
+}
+
+.homeheading
+{
+	color: #d8d8d8;
+	text-align: center;
+	font: 18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.js-video
+{
+	height: 0;
+	padding-top: 0;
+	padding-bottom: 57%;
+	margin-bottom: 10px;
+	margin-bottom: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.thumbnail
+{
+	border: none !important;
+}
+
+
+
+.js-video.widescreen
+{
+	padding-bottom: 57.25%;
+}
+
+.js-video.vimeo
+{
+	padding-top: 0;
+}
+
+.js-video embed, .js-video iframe, .js-video object, .js-video video
+{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+
+
+.ipg
+{
+	margin: 32px 30px;
+}
+
+.futureunited
+{
+	margin: 15px 30px 20px;
+}
+
+
+.forkheadings
+{
+	color: #878787;
+	text-align: center;
+	font: 17px "ff-cocon-web-pro", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.footer
+{	
+	
+	text-align: center;
+	color: #565656;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+}
+
+.scribble
+{
+	height: 35px; background: #f5f5f5 url('../img/scribble.jpg') no-repeat left top;
+}
+
+
+
+
+
+
+.navbar-inner .container {width:960px;}
+
+
+
+/* Form */
+#successMessage {
+    display:none;
+    margin-top:10px;
+    
+}
+#loadergif {
+    display:none;
+}
+.error {
+  color: #b94a48;
+}
+input.error,
+select.error,
+textarea.error {
+  border-color: #b94a48;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+input.error:focus,
+select.error:focus,
+textarea.error:focus {
+  border-color: #953b39;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+}
+
